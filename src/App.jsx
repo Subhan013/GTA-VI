@@ -157,12 +157,14 @@ function App() {
                 <h1 className="text-[15vw] leading-none ml-20">theft</h1>
                 <h1 className="text-[15vw] leading-none -ml-40">auto</h1>
               </div>
+              <div className="girlimg">
               <img
-                className="absolute character -bottom-[30vw] left-1/2 -translate-x-1/2 
+                className="absolute character -bottom-[30vw] -translate-x-1/2 
              scale-75 sm:scale-[6] md:scale-[8] lg:scale-[10]  rotate-[-20deg] "
                 src="./girlbg.png"
                 alt=""
               />
+              </div>
             </div>
             <div className="btmbar text-white absolute bottom-0 left-0 w-full py-15 px-10 bg-gradient-to-t from-black to-transparent">
               <div className="flex gap-4 items-center">
